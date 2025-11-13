@@ -1,0 +1,2 @@
+# Osztv13e
+Mintafeladat
